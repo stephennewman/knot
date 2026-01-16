@@ -593,7 +593,12 @@ function Footer() {
         <div className="flex flex-col md:flex-row items-center justify-between gap-6">
           {/* Name */}
           <div>
-            <p className="text-[#f5f0e8] font-medium">Knot Today Massage</p>
+            <p
+              className="text-[#f5f0e8] text-2xl"
+              style={{ fontFamily: "var(--font-cormorant)" }}
+            >
+              Knot Today Massage
+            </p>
             <p className="text-[#f5f0e8]/50 text-sm">
               Licensed Massage Therapy
             </p>
