@@ -68,6 +68,10 @@
 
 ## Deployment Log
 
+### January 16, 2026 (2)
+- Removed all KTM logo images from site (Navigation, Hero, Contact, Footer)
+- Text branding retained throughout
+
 ### January 16, 2026
 - Initial website build
 - Created single-page layout with all sections
